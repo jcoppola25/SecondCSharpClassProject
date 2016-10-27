@@ -5,6 +5,4 @@ The form had to have a running total of all the courses ordered and could not al
 
 Form also had to have a running total of the cost of all the classes and the cost changed depending upon which residency status you selected
 
-Program was coded in visual studio
 
-only uploaded the solution file because it is the only one I physically coded visual studio hard coded the rest for me
